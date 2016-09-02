@@ -1832,3 +1832,19 @@ h3.animateblock.animated{
     max-width: 460px;
     width: 460px;
 }
+.presentation{
+    height:400px;
+    background:red;
+}
+.paralax{
+    height:200px;
+    background:blue;
+}
+.services{
+    height:500px;
+    background:grey;
+}
+.temoignages{
+    height:300px;
+    background:yellow;
+}
